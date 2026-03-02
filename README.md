@@ -1,2 +1,2 @@
-# Labarator-Java-Script-2
-Laba 2 Js 
+# Labarator-Java-Script-3
+Laba 3 Js 
